@@ -1,2 +1,8 @@
 project/target/
 target/
+
+# Ensime files
+.ensime_cache/
+ensime-langserver.log
+pc.stdout.log
+.ensime
